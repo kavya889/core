@@ -28,6 +28,10 @@ from .const import (
     MIN_SCAN_INTERVAL,
 )
 
+# adding comments
+# more comments
+
+
 _LOGGER = logging.getLogger(__name__)
 
 DATA_SCHEMA = vol.Schema(
